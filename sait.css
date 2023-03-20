@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Montserrat&family=Rubik+Iso&family=Taprom&display=swap');
+html {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612805592_119-p-anime-fon-v-golubikh-tonakh-206.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+
+.par{ text-align: center;}
+
+@MEDIA (max-width:650px){
+    .info{text-align: center;}
+}
+
+.text5{ text-align: center
+}
+
+.text5 {color: #9e257a;
+font-size: larger;}
+.btm4:hover{opacity: 0.8;}
+.btm4 {margin: auto;
+    display: block;
+    text-align: center;
+    background: #853a237e;
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-Radius: 10PX}
+     
+.list{padding: 0px 20px;}
+.list li{color: #204fac;
+margin-bottom: 10px;
+list-style: NONE;
+border-bottom: 1px solid blue;}
+
+.table {
+    width: 100%;
+}
+table td{padding-bottom: 10px;}
+
+.table td:nth-child(1), .table td:nth-child(2), .table td:nth-child(3){
+    background: #cedbb8;
+}
+
+a:hover {color: rgb(63, 150, 99);
+text-decoration: underline;}
+/* a:visited{color: green;} */
+a:active{color: rgb(245, 236, 245);}
+a{
+    color: #333;
+    text-decoration: none;
+    transition: all .2s;
+}
+.btm1{
+    
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background: #452579;
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-Radius: 10PX;}
+
+.btm2{
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+     background: #091070;
+     padding: 10px 15px;
+     color: white;
+     border: none;
+     cursor: pointer;
+     border-Radius: 10PX;
+     
+    }
+.btm3{
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background: #b17609;
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-Radius: 15PX;}
+.btm{box-shadow: 8px 8px 14px rgba(206, 14, 212, 0.5);
+    margin: 40px auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background: #9e257a;
+    padding: 25px 65px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-Radius: 10PX;
+    font-family: inherit;
+    transition: all .2s;
+}
+.btn5{box-shadow: 8px 8px 14px rgba(31, 0, 143, 0.5);
+    margin: 40px auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background: #5855e0;
+    padding: 25px 65px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-Radius: 10PX;
+    font-family: inherit;
+    transition: all .2s;
+    }
+.avatar2{width: 200px;
+    border-radius: 28px;
+    box-shadow: 15px 15px 14px rgba(3, 12, 141, 0.5);
+    display: block;
+    margin: 40px auto;}
+
+.avatar{width: 200px;
+border-radius: 28px;
+box-shadow: 8px 8px 14px rgba(206, 14, 212, 0.5);
+display: block;
+margin: 40px auto;
+}
+body{
+    
+    /* background: #744545 ; */
+    font-family: 'MONTSERRAT', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+.info-text h4{
+    margin-bottom: 10PX;
+}
+.container{
+    max-width: 400px;
+    margin: auto;
+    padding-top: 30px;
+}
+.info {margin-bottom: 20px;
+}
+.info-text p {
+    font-style: italic;
+    font-weight: bold;
+    color:#86898F;
+    margin: 0;
+}
+.info p {
+    color: #1b51a3 ;
+}
+.card {
+border-radius: 20px;
+padding: 15px 20px;
+margin-bottom: 20px;
+
+
+}
+.bg-yellow{
+    background: #dad6c5;
+}
+.bg-red{background: #ca9898;}
+.bg-green{background:#E5FFE7 ;}
